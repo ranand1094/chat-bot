@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+	<pattern>Can we have sex?</pattern>
+	<template>Yes, i love to have sex</template>
+</category>
+</aiml>
